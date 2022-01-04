@@ -1,0 +1,104 @@
+body{
+    background-color:whitesmoke;
+    text-align: center;
+    background-image: url(infofons.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+   
+}
+
+h1, h2 {
+    font-style: oblique;
+    color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: overline;
+    
+}
+
+h1{
+    margin-top: 20px;
+}
+
+h3,address{
+    font-style: italic;
+    color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+p{
+    margin-left: 250px;
+    margin-right: 250px;
+    font-style: italic;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif
+
+}
+
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: darkslategray;
+    text-decoration: underline;
+    margin-left: 680px;
+}
+li{
+    
+    
+    text-align: left;
+}
+
+img{ 
+    border: 3px solid darkslategray;
+    margin-bottom: 20px;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 16;
+    color: black;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.izcelts{
+    color: darkred;
+    font-size: 14;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.colors{
+    text-transform: uppercase;
+	background: linear-gradient( red, green, blue);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.gradient{
+    text-transform: uppercase;
+    background: linear-gradient( black, gray, brown);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+    
+}
+
+#adrese{
+    color: blue;
+    font-size: 16;
+    font-family: serif;
+    font-stretch: wider;
+
+}
+#ion{
+    text-decoration: underline;
+    color: brown;
+    font-stretch: narrower;
+    font-family: cursive;
+}
+
+
+
+
+
+
+
